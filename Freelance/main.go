@@ -13,4 +13,6 @@ func main(){
 		fmt.Println(i)
 	}
 	function.Menu()
+
+	fmt.Println("Coy Univese")
 }
