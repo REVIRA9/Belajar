@@ -13,4 +13,5 @@ func main(){
 		fmt.Println(i)
 	}
 	function.Menu()
+	fmt.Print("ulululul")
 }
