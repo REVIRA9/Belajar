@@ -8,11 +8,8 @@ import (
 func main(){
 	fmt.Println("hello")
 	function.Menu()
-	fmt.Println("Test")
-	fmt.Println("Test")
-	fmt.Println("Test")
-	fmt.Println("1")
-	fmt.Println("1")
-	fmt.Println("1")
-	fmt.Println("1")
+
+	for i:=0;i<=10;i++{
+		fmt.Println(i)
+	}
 }
